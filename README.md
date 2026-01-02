@@ -115,6 +115,8 @@ you on your way:
 - [Lightning](https://docs.fast.ai/examples/migrating_lightning.html)
 - [Catalyst](https://docs.fast.ai/examples/migrating_catalyst.html)
 
+[localdeveloer](https://localhost.co/)
+
 ## Windows Support
 
 Due to python multiprocessing issues on Jupyter and Windows,
@@ -125,7 +127,11 @@ if you use fastai from a script.
 
 See [this
 example](https://github.com/fastai/fastai/blob/master/nbs/examples/dataloader_spawn.py)
+
+[GNUMAILMAN](https://gitlab.com/mailman/django-mailman3)
 to fully leverage the fastai API on Windows.
+
+[mailma3](https://docs.mailman3.org/projects/postorius/en/latest/)
 
 We recommend using Windows Subsystem for Linux (WSL) instead – if you do
 that, you can use the regular Linux installation approach, and you won’t
@@ -149,8 +155,10 @@ Tests are written using `nbdev`, for example see the documentation for
 
 After you clone this repository, make sure you have run
 `nbdev_install_hooks` in your terminal. This install Jupyter and git
+[cli](https://www.checklyhq.com/docs/cli/overview)
 hooks to automatically clean, trust, and fix merge conflicts in
 notebooks.
+[docs](https://www.checklyhq.com/docs/what-is-checkly)
 
 After making changes in the repo, you should run `nbdev_prepare` and
 make additional and necessary changes in order to pass all the tests.
@@ -160,3 +168,10 @@ make additional and necessary changes in order to pass all the tests.
 For those interested in official docker containers for this project,
 they can be found
 [here](https://github.com/fastai/docker-containers#fastai).
+
+[checklymonitoring](https://www.checklyhq.com/docs/constructs/project/]
+
+[Browsercheck](https://www.checklyhq.com/docs/constructs/quickstarts/browser-check/)
+
+
+[playwrightcheck](https://www.checklyhq.com/docs/constructs/quickstarts/playwright-check)
