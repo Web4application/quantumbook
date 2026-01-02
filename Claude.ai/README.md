@@ -1,7 +1,7 @@
 # Claude Code
 
 > Learn how to use Claude Code to create checks.
-
+ 
 Claude is a code editor that supports AI-powered code completion and suggestions.
 
 ## Using Claude Code to create checks
